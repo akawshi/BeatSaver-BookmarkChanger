@@ -1,0 +1,2 @@
+# BeatSaver-BookmarkChanger
+ブックマークをトグルすると譜面カードの背景が切り替わる
